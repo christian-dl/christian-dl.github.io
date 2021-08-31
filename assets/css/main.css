@@ -4689,3 +4689,10 @@ input, select, textarea {
 		}
 
 	}
+video::-webkit-media-controls-volume-slider {
+display:none;
+}
+
+video::-webkit-media-controls-mute-button {
+display:none;
+}
